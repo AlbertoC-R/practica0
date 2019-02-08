@@ -10,6 +10,7 @@ public class Prueba {
 		System.out.println(p.toString());
 		System.out.println(m.toString());
 		System.out.println(p1.toString());
+		System.out.println("copia");
 
 	}
 
